@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
+.main{
+	width:200px;
+}
 .heading{
 	width:200px;
 	background:purple;
