@@ -2,10 +2,10 @@
 /* Your CSS Code here. */
 .main{
 	width:200px;
+	background:rgb(128, 0, 128)
 }
 .heading{
 	width:200px;
-	background:purple;
 	border-left:5px solid green;
 	font-size:20px;
 	padding:10px;
